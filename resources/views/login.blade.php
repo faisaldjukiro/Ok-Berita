@@ -46,7 +46,7 @@
 
                                         <div class="form-group ">
                                             <div class="col-xs-12">
-                                                <input class="form-control" type="emal" required="" placeholder="Email" autofocus>
+                                                <input class="form-control" type="email" required="" placeholder="Email" autofocus>
                                             </div>
                                         </div>
 
@@ -67,7 +67,7 @@
                                         </div>
                                         <div class="form-group text-center m-t-30">
                                             <div class="col-sm-12">
-                                                <a href="page-recoverpw.html" class="text-muted"><i class="fa fa-lock m-r-5"></i> Forgot your password?</a>
+                                                <a href="page-recoverpw.html" class="text-muted"><i class="fa fa-lock m-r-5"></i> Lupa Password?</a>
                                             </div>
                                         </div>
 
